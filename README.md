@@ -53,23 +53,18 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ebertlc/ebertlc/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ebertlc/ebertlc/output/snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebertlc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ebertlc&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=material-palenight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ebertlc/count.svg?" alt="profile visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=ebertlc&color=blueviolet&style=flat" alt="profile visitor counter" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts" />
-</div>
