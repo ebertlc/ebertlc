@@ -22,9 +22,14 @@
 
 ### Sobre mim
 
-- 👨‍💻 Desenvolvedor Python e SQL
-- 📊 Especializado em Automações Web e Bancos de Dados
-- 🌍 Localização: Brasília, DF, Brasil
+- 🗄️ **DBA Pleno** com 3 anos de experiência em órgãos do Governo Federal (MPDFT e MIDR)
+- 🛢️ SQL Server, Oracle, PostgreSQL, MySQL e MongoDB
+- 🔁 Alta disponibilidade com **AlwaysOn**, replicação e failover
+- ⚙️ Automação com T-SQL, PL/SQL, Python, Bash e Ansible, além de pacotes ETL
+- 💾 Backup e recovery com Commvault (48 servidores administrados)
+- 🎓 Análise e Desenvolvimento de Sistemas, Estácio Brasília
+- 🏆 1º lugar no Hackathon da Campus Party Brasília 2022
+- 🌍 Brasília, DF, Brasil
 
 ---
 
